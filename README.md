@@ -6,13 +6,13 @@ For this application first of all create a project in the firebase and get the J
 
 Currently supported features and TODOs:
 
- Firebase email login
- Exchanging messages with other registered/authenticated users
- Filter users based on their name
- Fragment to edit the main information of a user
- Upload and exchange images with others
- End-to-end encryption (a. only one device involved and b. multiple devices involved)
- Maybe redo email sign in to use a custom UI instead of the FirebaseAuthUI
- Create user groups based on interests etc. and filter based on these
+Firebase email login
+ Exchanging messages with other registered/authenticated users.
+ Filter users based on their name.
+ Fragment to edit the main information of a user.
+ Upload and exchange images with others.
+ End-to-end encryption (a. only one device involved and b. multiple devices involved).
+ Maybe redo email sign in to use a custom UI instead of the FirebaseAuthUI.
+ Create user groups based on interests etc. and filter based on these.
 
 
